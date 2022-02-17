@@ -1,8 +1,4 @@
 
-
-<h1>Hi 👋, I'm Ezeigwe Henry</h1>
-<h3>A passionate Software developer from Nigeria</h3>
-
 <h1>Hi 👋, I'm Ezeigwe Henry</h1>
 <h3>A passionate Software developer from Nigeria</h3>
 

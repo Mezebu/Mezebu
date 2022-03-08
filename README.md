@@ -9,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mezebu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mezebu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=c24b9b51-9eca-4782-b5b7-68b182aaa19b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=c24b9b51-9eca-4782-b5b7-68b182aaa19b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

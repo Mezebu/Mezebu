@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezeigwe Henry</h1>
 <h3 align="center">A passionate Software developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **mezebu07@gmail.com**
 

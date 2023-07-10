@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ezeigwe Henry</h1>
+<h1 align="center">Hi 👋, I'm Henry Ezeigwe</h1>
 <h3 align="center">A passionate Software developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **AWS**
